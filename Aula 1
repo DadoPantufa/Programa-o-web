@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>main.html</title>
+</head>
+<body>
+    <h1>Lonzo Ball ou LaMelo Ball</h1>
+    <h2>Qual dos dois irmãos é melhor?</h2>
+    <p>O objetivo dessa página não é criticar nenhum dos jogadores, mas sim comparar suas temporadas através dos números</p>
+    <table border="1">
+        <tr>
+        <th>Jogadores</th>
+        <th>% Field goal</th>
+        <th>Pontos por jogo</th>   
+        </tr>
+        <tr>
+            <td>Lonzo Ball</td>
+            <td>42.3%</td>
+            <td>13.0</td>  
+        </tr>
+        <tr>
+            <td>LaMelo Ball</td>
+            <td>41.2%</td>
+            <td>23.6</td><br>
+        </tr>
+        <img src="https://r8p9h9p8.rocketcdn.me/wp-content/uploads/2021/01/Lonzo-LaMelo-Ball_Easy-Resize.com_.jpg"width=500 height=350 alt=""><br>
+        <a href="https://jumperbrasil.lance.com.br/lamelo-ball-eu-sou-bem-melhor-que-lonzo/#:~:text=Quem%20%C3%A9%20melhor%20entre%20os,mais%20velho%20de%20LaVar%20Ball.">Saiba Mais</a><br>
+    </table>
+</body>
+</html>
